@@ -13,7 +13,7 @@ public class Prob1 {
 	 * 
 	 */
 	public Prob1() {
-		// TODO Auto-generated constructor stub
+		System.out.println("Hello")
 	}
 
 	/**
