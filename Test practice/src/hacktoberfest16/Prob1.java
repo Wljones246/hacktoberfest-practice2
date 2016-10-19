@@ -13,7 +13,7 @@ public class Prob1 {
 	 * 
 	 */
 	public Prob1() {
-		System.out.println("Hello")
+		System.out.println("Hello");
 	}
 
 	/**
