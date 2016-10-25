@@ -3,6 +3,7 @@
  */
 package hacktoberfest16;
 
+import java.util.Scanner;
 
 /**
  * @author williamjones
