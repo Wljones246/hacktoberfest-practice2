@@ -32,8 +32,8 @@ public class Prob4 {
 
 		Prob4 myProb4 = new Prob4(5);
 		
-		System.out.println("My problem size:");
-		System.out.println(Prob4);
+		System.out.println("My problem size: ");
+		System.out.println(myProb4);
 
 	}
 
