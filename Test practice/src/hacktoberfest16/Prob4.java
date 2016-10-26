@@ -15,7 +15,6 @@ public class Prob4 {
 	int size;
 
 	public Prob4(int s) {
-		// TODO Auto-generated constructor stub
 
 		size = s;
 
